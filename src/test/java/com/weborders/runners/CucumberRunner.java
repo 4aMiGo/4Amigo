@@ -14,5 +14,5 @@ import org.junit.runner.RunWith;
         dryRun = false,
         plugin = "html:target/default-report"
 )
-public class CucumberRunner {
+public class CucumberRunner { // zdes bil ya
 }
